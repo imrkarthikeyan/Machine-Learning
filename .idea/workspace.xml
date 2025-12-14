@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1369dac-a257-444f-a791-57337860107b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised Learning/LogisticRegression/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised Learning/LogisticRegression/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised Learning/LogisticRegression/logisticRegression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supervised Algorithms/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised Learning/LinearRegression/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supervised Algorithms/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised Learning/LinearRegression/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supervised Algorithms/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised Learning/LinearRegression/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "Python.LinearRegression.executor": "Run",
     "Python.LogisticRegression.executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.logisticRegression.executor": "Run",
     "Python.model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
